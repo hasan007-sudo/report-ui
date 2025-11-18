@@ -11,8 +11,8 @@ interface StickyAudioPlayerProps {
 }
 
 export function StickyAudioPlayer({
-  recordingTitle,
-  studentName,
+  recordingTitle: _recordingTitle,
+  studentName: _studentName,
 }: StickyAudioPlayerProps) {
   const {
     isPlaying,
@@ -56,25 +56,8 @@ export function StickyAudioPlayer({
   };
 
   return (
-    <div className="fixed bottom-4 left-1/2 z-50 w-[65%] -translate-x-1/2 rounded-lg border bg-white shadow-2xl">
+    <div className="fixed bottom-4 z-50 w-[65%] -translate-x-1/2 rounded-lg border bg-white shadow-2xl" style={{ left: "calc(16rem + (100vw - 16rem) / 2)" }}>
       <div className="flex items-center gap-3 px-4 py-2.5">
-        {/* Left section: Recording info */}
-        <div className="flex min-w-0 items-center gap-2.5">
-          <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-md bg-gradient-to-br from-blue-500 to-blue-600 text-white shadow-md">
-            <span className="text-base font-semibold">
-              {studentName.charAt(0).toUpperCase()}
-            </span>
-          </div>
-          <div className="min-w-0">
-            <div className="truncate text-xs font-semibold text-gray-900">
-              {recordingTitle}
-            </div>
-            <div className="truncate text-[10px] text-gray-500">
-              {studentName}
-            </div>
-          </div>
-        </div>
-
         {/* Center section: Play button */}
         <Button
           variant="ghost"

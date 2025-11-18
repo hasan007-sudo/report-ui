@@ -45,6 +45,7 @@ export function CEFRReport({
 
   // Extract scores from report data
   const scores = {
+    overall: reportData.reports?.cefr?.summary?.score?.score ?? 0,
     clarity: reportData.reports?.cefr?.clarity?.score?.score ?? 0,
     fluency: reportData.reports?.cefr?.fluency?.score?.score ?? 0,
     grammar: reportData.reports?.cefr?.grammar?.score?.score ?? 0,

@@ -103,7 +103,8 @@ export function TranscriptSection({ reportData }: TranscriptSectionProps) {
       <div ref={scrollContainerRef} className="space-y-3 p-6">
         {segments.map((segment, index) => {
           const speakerName = getSpeakerName(segment.speaker);
-          const isStudent = segment.speaker === "SPEAKER_02";
+          const isStudent =
+            speakerName?.trim().toLowerCase() === "student";
           const isActive = index === activeSegmentIndex;
 
           return (
@@ -148,10 +149,11 @@ export function TranscriptSection({ reportData }: TranscriptSectionProps) {
 
                 {/* Message Bubble */}
                 <div
+                  onClick={() => handleTimestampClick(segment.start_time)}
                   className={cn(
-                    "rounded-lg px-4 py-2 transition-all",
+                    "rounded-lg px-4 py-2 transition-all cursor-pointer",
                     isStudent
-                      ? "bg-gray-200 rounded-tr-none"
+                      ? "bg-green-200 rounded-tr-none"
                       : "bg-blue-100 text-blue-900 rounded-tl-none",
                     isActive && "ring-2 ring-blue-500 ring-offset-2"
                   )}

@@ -20,6 +20,7 @@ interface CEFRSubTabsProps {
       | "clarity"
   ) => void;
   scores: {
+    overall: number;
     grammar: number;
     fluency: number;
     vocabulary: number;
@@ -69,7 +70,7 @@ export function CEFRSubTabs({
     label: string;
     hasScore: boolean;
   }> = [
-    { id: "overall", label: "Overall", hasScore: false },
+    { id: "overall", label: "Overall", hasScore: true },
     { id: "grammar", label: "Grammar", hasScore: true },
     { id: "fluency", label: "Fluency", hasScore: true },
     { id: "vocabulary", label: "Vocabulary", hasScore: true },
