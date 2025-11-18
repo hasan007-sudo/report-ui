@@ -1,0 +1,2543 @@
+{
+  "transcript": {
+    "segments": [
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:01",
+        "end_time": "00:00:01",
+        "content": "Shall we start?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:01",
+        "end_time": "00:00:02",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:02",
+        "end_time": "00:00:03",
+        "content": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:03",
+        "end_time": "00:00:05",
+        "content": "So start by telling me about yourself."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:05",
+        "end_time": "00:00:07",
+        "content": "I'm Raja-- Rajeshwari."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:07",
+        "end_time": "00:00:09",
+        "content": "I'm from Tiruvannamalai district."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:10",
+        "end_time": "00:00:12",
+        "content": "Now I'm training in freshers."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:13",
+        "end_time": "00:00:15",
+        "content": "Okay. Uh, who are all there in your family?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:16",
+        "end_time": "00:00:19",
+        "content": "My father, my mother and my sister."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:20",
+        "end_time": "00:00:24",
+        "content": "Who is the closest to you in your family?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:24",
+        "end_time": "00:00:26",
+        "content": "All are my closest to ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:26",
+        "end_time": "00:00:27",
+        "content": "All are close to you."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:27",
+        "end_time": "00:00:30",
+        "content": "Okay, what do you like to do uh, with your family?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:33",
+        "end_time": "00:00:39",
+        "content": "I like to do watching tea-- movies."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:39",
+        "end_time": "00:00:40",
+        "content": "What?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:40",
+        "end_time": "00:00:41",
+        "content": "With my family."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:41",
+        "end_time": "00:00:44",
+        "content": "What movie did you watch recently with your family?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:44",
+        "end_time": "00:00:49",
+        "content": "Recently I watched,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:50",
+        "end_time": "00:00:52",
+        "content": "I can't remember, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:52",
+        "end_time": "00:00:53",
+        "content": "You don't remember."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:53",
+        "end_time": "00:00:53",
+        "content": "But, ah,"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:00:54",
+        "end_time": "00:00:58",
+        "content": "Okay. Do you go to the cinema, I mean, do you go to the theater and watch or do"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:00:58",
+        "end_time": "00:01:02",
+        "content": "only one time only I went to theater, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:02",
+        "end_time": "00:01:04",
+        "content": "Oh, in your whole life you've only been once?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:04",
+        "end_time": "00:01:05",
+        "content": "Oh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:05",
+        "end_time": "00:01:08",
+        "content": "Oh, what movie was that? Do you remember?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:08",
+        "end_time": "00:01:10",
+        "content": "Uh, Nerkonda Paarvai."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:11",
+        "end_time": "00:01:12",
+        "content": "Okay. Did you like that movie?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:12",
+        "end_time": "00:01:13",
+        "content": "No, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:13",
+        "end_time": "00:01:15",
+        "content": "I can't able to understand the scenes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:16",
+        "end_time": "00:01:17",
+        "content": "Oh. Were you very young?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:17",
+        "end_time": "00:01:18",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:18",
+        "end_time": "00:01:19",
+        "content": "Oh."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:19",
+        "end_time": "00:01:21",
+        "content": "Uh, I studied sixth."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:21",
+        "end_time": "00:01:22",
+        "content": "You were in sixth."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:22",
+        "end_time": "00:01:24",
+        "content": "Okay, and your sister would have been even younger."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:24",
+        "end_time": "00:01:26",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:26",
+        "end_time": "00:01:27",
+        "content": "And she wouldn't have understood anything."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:28",
+        "end_time": "00:01:31",
+        "content": "She only watching uh, pictures and eating popcorn only."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:32",
+        "end_time": "00:01:33",
+        "content": "Nice, nice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:34",
+        "end_time": "00:01:36",
+        "content": "Do you have any hobbies, Raji?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:37",
+        "end_time": "00:01:40",
+        "content": "Now my, uh, okay, hobbies."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:41",
+        "end_time": "00:01:42",
+        "content": "Drawing."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:42",
+        "end_time": "00:01:43",
+        "content": "I like to draw."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:43",
+        "end_time": "00:01:44",
+        "content": "You like to draw."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:46",
+        "end_time": "00:01:49",
+        "content": "Um, what do you like to draw?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:50",
+        "end_time": "00:01:51",
+        "content": "Anything."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:51",
+        "end_time": "00:01:52",
+        "content": "Anything."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:52",
+        "end_time": "00:01:54",
+        "content": "Do you have anything that you recently drew?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:54",
+        "end_time": "00:01:55",
+        "content": "Uh, yeah, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:01:56",
+        "end_time": "00:01:56",
+        "content": "What did you draw?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:01:56",
+        "end_time": "00:02:00",
+        "content": "Uh, I draw Dora Booji in my house wall."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:00",
+        "end_time": "00:02:02",
+        "content": "Oh, really? Oh, you paint on your house wall."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:02:02",
+        "end_time": "00:02:03",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:03",
+        "end_time": "00:02:03",
+        "content": "Nice."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:02:03",
+        "end_time": "00:02:07",
+        "content": "And one Vinayagar picture also I draw."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:07",
+        "end_time": "00:02:10",
+        "content": "So, next time can you click pictures of that and show me?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:02:10",
+        "end_time": "00:02:12",
+        "content": "I already have in my old phone, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:12",
+        "end_time": "00:02:14",
+        "content": "Okay. Just show it to me later."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:02:14",
+        "end_time": "00:02:15",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:15",
+        "end_time": "00:02:16",
+        "content": "I'll be very interested to see."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:16",
+        "end_time": "00:02:18",
+        "content": "I can't draw at all."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:18",
+        "end_time": "00:02:19",
+        "content": "I don't know to draw."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:20",
+        "end_time": "00:02:22",
+        "content": "Like very, very bad at it."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:23",
+        "end_time": "00:02:29",
+        "content": "Um, I only like all these other extracurricular things like dancing and everything that's on stage."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:29",
+        "end_time": "00:02:34",
+        "content": "This drawing and all is very, so it's a nice talent to have."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:35",
+        "end_time": "00:02:41",
+        "content": "Um, okay. So what else do you do in your free time other than drawing?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:02:42",
+        "end_time": "00:02:43",
+        "content": "Watching reels, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:43",
+        "end_time": "00:02:44",
+        "content": "Watching reels."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:44",
+        "end_time": "00:02:46",
+        "content": "Okay, tell me about any one interesting page that you follow."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:02:46",
+        "end_time": "00:02:52",
+        "content": "One interesting page, I like music, ma'am, so I follow Stephen Saharia."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:52",
+        "end_time": "00:02:54",
+        "content": "Stephen Saharia."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:02:54",
+        "end_time": "00:03:01",
+        "content": "The pianist, no, the keyboard player from Super Singer. That person. I mean, he usually sometimes he comes to Super Singer."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:01",
+        "end_time": "00:03:03",
+        "content": "Only one time only he come, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:03",
+        "end_time": "00:03:04",
+        "content": "Oh, he came only once."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:04",
+        "end_time": "00:03:05",
+        "content": "But he is the one, no?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:05",
+        "end_time": "00:03:06",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:06",
+        "end_time": "00:03:08",
+        "content": "The one that Priyanka always flirts with."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:08",
+        "end_time": "00:03:09",
+        "content": "That one only. Oh, he's a good player."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:09",
+        "end_time": "00:03:10",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:10",
+        "end_time": "00:03:11",
+        "content": "Nice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:11",
+        "end_time": "00:03:11",
+        "content": "So you follow him."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:11",
+        "end_time": "00:03:12",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:12",
+        "end_time": "00:03:14",
+        "content": "What else?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:14",
+        "end_time": "00:03:15",
+        "content": "My favorite singer also."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:15",
+        "end_time": "00:03:16",
+        "content": "Oh, he he sings, is it?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:16",
+        "end_time": "00:03:17",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:17",
+        "end_time": "00:03:18",
+        "content": "Oh, I didn't know that. Has he sung any songs in Tamil?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:18",
+        "end_time": "00:03:19",
+        "content": "Yeah, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:19",
+        "end_time": "00:03:20",
+        "content": "What?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:20",
+        "end_time": "00:03:21",
+        "content": "Album songs."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:21",
+        "end_time": "00:03:22",
+        "content": "Series, not in series, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:22",
+        "end_time": "00:03:23",
+        "content": "Oh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:24",
+        "end_time": "00:03:25",
+        "content": "Nice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:25",
+        "end_time": "00:03:27",
+        "content": "You also like"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:27",
+        "end_time": "00:03:28",
+        "content": "You know Adipenne song?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:30",
+        "end_time": "00:03:31",
+        "content": "I don't think so. Send it to me."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:31",
+        "end_time": "00:03:32",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:32",
+        "end_time": "00:03:33",
+        "content": "I'll be I like to listen to new music."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:34",
+        "end_time": "00:03:36",
+        "content": "Um, I was going to ask something."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:36",
+        "end_time": "00:03:37",
+        "content": "You like watching K-drama, right?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:37",
+        "end_time": "00:03:39",
+        "content": "Yes, ma'am. Ah, I like K-dramas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:40",
+        "end_time": "00:03:43",
+        "content": "So can you tell me the story of any K-drama that you're watching now?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:43",
+        "end_time": "00:03:45",
+        "content": "Now, uh,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:45",
+        "end_time": "00:03:49",
+        "content": "Now I can watch any K-dramas."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:49",
+        "end_time": "00:03:51",
+        "content": "You are not watching any K-dramas now?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:51",
+        "end_time": "00:03:52",
+        "content": "Oh, okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:03:52",
+        "end_time": "00:03:56",
+        "content": "Uh, sorry. Which was the one that you watch-- Oh, okay. Tell me the story of your favorite."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:03:56",
+        "end_time": "00:04:00",
+        "content": "Uh, I first, first watch Hidden Drum, Hidden love."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:00",
+        "end_time": "00:04:01",
+        "content": "Hidden Love."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:01",
+        "end_time": "00:04:01",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:01",
+        "end_time": "00:04:02",
+        "content": "Okay, what is it about?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:02",
+        "end_time": "00:04:10",
+        "content": "Uh, the heroine was uh, crush about uh, his her, her brother's friend."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:10",
+        "end_time": "00:04:10",
+        "content": "Oh, okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:11",
+        "end_time": "00:04:12",
+        "content": "And that's the story."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:12",
+        "end_time": "00:04:12",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:12",
+        "end_time": "00:04:14",
+        "content": "So what happens? What happens at the end?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:15",
+        "end_time": "00:04:18",
+        "content": "The age difference was five years bigger."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:18",
+        "end_time": "00:04:19",
+        "content": "Okay."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:19",
+        "end_time": "00:04:23",
+        "content": "So she is older by five years or he is older by five years? She is older by five years."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:23",
+        "end_time": "00:04:24",
+        "content": "Oh, so that is the problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:24",
+        "end_time": "00:04:25",
+        "content": "Problem."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:25",
+        "end_time": "00:04:26",
+        "content": "Then what happens?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:26",
+        "end_time": "00:04:29",
+        "content": "Finally, they both are love together, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:29",
+        "end_time": "00:04:30",
+        "content": "They fall in love."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:30",
+        "end_time": "00:04:31",
+        "content": "Like any other"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:31",
+        "end_time": "00:04:32",
+        "content": "any other drama."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:32",
+        "end_time": "00:04:34",
+        "content": "Drama. Okay. Which was your, is this your favorite?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:34",
+        "end_time": "00:04:35",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:36",
+        "end_time": "00:04:38",
+        "content": "So are all K-dramas generally love stories?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:38",
+        "end_time": "00:04:39",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:39",
+        "end_time": "00:04:40",
+        "content": "They are always love stories."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:40",
+        "end_time": "00:04:41",
+        "content": "Always contract marriage."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:41",
+        "end_time": "00:04:42",
+        "content": "Contract marriage."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:42",
+        "end_time": "00:04:43",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:43",
+        "end_time": "00:04:47",
+        "content": "Like that Tamil movie, Priyamanavale."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:48",
+        "end_time": "00:04:49",
+        "content": "Interesting."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:49",
+        "end_time": "00:04:54",
+        "content": "But in Tamil movie, there are one, one movie only like that, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:04:54",
+        "end_time": "00:04:58",
+        "content": "But K-drama all movies are like that model only, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:58",
+        "end_time": "00:04:59",
+        "content": "Oh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:04:59",
+        "end_time": "00:05:01",
+        "content": "Isn't that boring to watch the same story again and again?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:01",
+        "end_time": "00:05:02",
+        "content": "Not boring, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:02",
+        "end_time": "00:05:03",
+        "content": "Why?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:03",
+        "end_time": "00:05:06",
+        "content": "I don't know, ma'am. That is how my question, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:06",
+        "end_time": "00:05:10",
+        "content": "All movies are have contract marriage, contract marriage, but not bored, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:10",
+        "end_time": "00:05:13",
+        "content": "Why everybody likes this contract marriage? I don't understand."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:15",
+        "end_time": "00:05:16",
+        "content": "What, ma'am?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:16",
+        "end_time": "00:05:22",
+        "content": "What is this liking towards contract marriage? It usually it is for some gain, is it?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:22",
+        "end_time": "00:05:23",
+        "content": "Like business deal?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:23",
+        "end_time": "00:05:24",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:24",
+        "end_time": "00:05:28",
+        "content": "Okay. Can you give me an example of something like that?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:28",
+        "end_time": "00:05:29",
+        "content": "Any one of the stories?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:29",
+        "end_time": "00:05:32",
+        "content": "Uh, uh, the heroine was very poor."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:32",
+        "end_time": "00:05:51",
+        "content": "So, she, she have money for, uh, physical and physical and physical support, ma'am. So, he contract with hero for money."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:51",
+        "end_time": "00:05:53",
+        "content": "That is the main purpose of the story."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:53",
+        "end_time": "00:05:55",
+        "content": "So she she signs the contract with the hero."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:55",
+        "end_time": "00:05:56",
+        "content": "I see."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:05:57",
+        "end_time": "00:05:57",
+        "content": "Very strange."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:05:58",
+        "end_time": "00:06:01",
+        "content": "Anyway. But the contract will end with love, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:01",
+        "end_time": "00:06:16",
+        "content": "All stories that's what happens. Just like it's that is, it's like almost given, no, in any love story. That's what happens. There will be some issue or the other and in the end it's all happily ever after."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:06:16",
+        "end_time": "00:06:18",
+        "content": "First starting with fight and end with love."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:18",
+        "end_time": "00:06:19",
+        "content": "Yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:19",
+        "end_time": "00:06:21",
+        "content": "It's very cringe, don't you think?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:21",
+        "end_time": "00:06:25",
+        "content": "But when it happens in real life, you think it will be nice?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:06:25",
+        "end_time": "00:06:26",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:26",
+        "end_time": "00:06:27",
+        "content": "I don't know."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:27",
+        "end_time": "00:06:28",
+        "content": "I think it's nice only to watch in movies."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:06:28",
+        "end_time": "00:06:30",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:30",
+        "end_time": "00:06:32",
+        "content": "Because if somebody fights with you so much, do you think you will fall in love with them?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:06:32",
+        "end_time": "00:06:33",
+        "content": "No, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:33",
+        "end_time": "00:06:33",
+        "content": "No, right?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:06:33",
+        "end_time": "00:06:34",
+        "content": "No, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:34",
+        "end_time": "00:06:37",
+        "content": "I think we will just run away from them. Like, who is this idiot?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:38",
+        "end_time": "00:06:46",
+        "content": "But only in movies all this happens. No matter how much they insult and, you know, fight and all. I'm like, no, no, no, but I still have a crush on them. I still love them."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:46",
+        "end_time": "00:06:47",
+        "content": "Nice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:47",
+        "end_time": "00:06:53",
+        "content": "What other interests you have? Do you play sports? Do you dance, sing, anything like that?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:06:53",
+        "end_time": "00:06:54",
+        "content": "No, singing only,"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:06:55",
+        "end_time": "00:06:56",
+        "content": "I love music."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:56",
+        "end_time": "00:06:58",
+        "content": "So that's it. Everything around music, you like."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:06:58",
+        "end_time": "00:07:00",
+        "content": "Do you sing like professionally?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:00",
+        "end_time": "00:07:01",
+        "content": "No, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:03",
+        "end_time": "00:07:07",
+        "content": "Already I sing in our classroom, ma'am. Dinesh and Jayasudha came out the class."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:07",
+        "end_time": "00:07:11",
+        "content": "Because my voice is very beautiful he say."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:11",
+        "end_time": "00:07:14",
+        "content": "So they are not able to take in all that beauty, so they ran off, is it?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:14",
+        "end_time": "00:07:15",
+        "content": "Nice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:17",
+        "end_time": "00:07:18",
+        "content": "Super."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:18",
+        "end_time": "00:07:21",
+        "content": "Which is your favorite song to sing?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:21",
+        "end_time": "00:07:22",
+        "content": "Stephen Saharia's songs."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:22",
+        "end_time": "00:07:25",
+        "content": "All Stephen Saharia songs. So you generally only listen to album songs more than movie songs."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:25",
+        "end_time": "00:07:26",
+        "content": "No, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:26",
+        "end_time": "00:07:27",
+        "content": "Love songs also."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:27",
+        "end_time": "00:07:30",
+        "content": "Love songs. Really, you are in a love mood."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:30",
+        "end_time": "00:07:33",
+        "content": "Either it is, whether it is movies or songs."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:33",
+        "end_time": "00:07:34",
+        "content": "Anything."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:34",
+        "end_time": "00:07:35",
+        "content": "I like all songs, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:35",
+        "end_time": "00:07:36",
+        "content": "Sad songs also, I like, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:37",
+        "end_time": "00:07:38",
+        "content": "Nice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:38",
+        "end_time": "00:07:41",
+        "content": "So your sister's function happened, no, last month."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:41",
+        "end_time": "00:07:42",
+        "content": "I can't able to go, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:43",
+        "end_time": "00:07:47",
+        "content": "Oh, but you went only on the day that she attended her age, no? Were you missed?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:48",
+        "end_time": "00:07:48",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:49",
+        "end_time": "00:07:50",
+        "content": "Did your sister call you and say, "
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:50",
+        "end_time": "00:07:54",
+        "content": "No, ma'am. I already told to him. I I can't able to come in the function."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:54",
+        "end_time": "00:07:55",
+        "content": "Nice."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:55",
+        "end_time": "00:07:57",
+        "content": "How did the function go?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:57",
+        "end_time": "00:07:58",
+        "content": "Nice, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:58",
+        "end_time": "00:07:59",
+        "content": "It went well?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:07:59",
+        "end_time": "00:07:59",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:07:59",
+        "end_time": "00:08:00",
+        "content": "Good."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:00",
+        "end_time": "00:08:03",
+        "content": "My function only go very sad."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:03",
+        "end_time": "00:08:03",
+        "content": "Oh, why?"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:04",
+        "end_time": "00:08:05",
+        "content": "How many years back?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:06",
+        "end_time": "00:08:08",
+        "content": "Uh, when I'm eight."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:08",
+        "end_time": "00:08:09",
+        "content": "You were an eight."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:09",
+        "end_time": "00:08:10",
+        "content": "Why was your function so sad?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:11",
+        "end_time": "00:08:14",
+        "content": "Relations are fighting with my father."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:15",
+        "end_time": "00:08:18",
+        "content": "Really? My my father's own sister."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:18",
+        "end_time": "00:08:20",
+        "content": "Oh, because of some issue that happened."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:20",
+        "end_time": "00:08:21",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:21",
+        "end_time": "00:08:22",
+        "content": "That's so sad."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:23",
+        "end_time": "00:08:27",
+        "content": "They and her father and mother also not able to speak now."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:28",
+        "end_time": "00:08:29",
+        "content": "Oh."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:29",
+        "end_time": "00:08:30",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:30",
+        "end_time": "00:08:32",
+        "content": "So they don't, so your father is not able to speak to his parents."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:32",
+        "end_time": "00:08:35",
+        "content": "They both are not speak with my father."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:36",
+        "end_time": "00:08:36",
+        "content": "Oh."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:37",
+        "end_time": "00:08:38",
+        "content": "Your father must be very sad, no?"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:38",
+        "end_time": "00:08:39",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:39",
+        "end_time": "00:08:40",
+        "content": "Very sad, yeah."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:40",
+        "end_time": "00:08:43",
+        "content": "Don't worry, someday, maybe when you grow up, you can fix the problem."
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "start_time": "00:08:43",
+        "end_time": "00:08:44",
+        "content": "Yes, ma'am."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:44",
+        "end_time": "00:08:45",
+        "content": "Let's see."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:46",
+        "end_time": "00:08:50",
+        "content": "Nice. How can you, can we see how long has it been? We can stop."
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "start_time": "00:08:50",
+        "end_time": "00:08:51",
+        "content": "Thank you, da."
+      }
+    ],
+    "speaker_map": [
+      {
+        "speaker_id": "SPEAKER_01",
+        "speaker_name": "Interviewer"
+      },
+      {
+        "speaker_id": "SPEAKER_02",
+        "speaker_name": "Rajeshwari"
+      }
+    ],
+    "talk_time": {
+      "duration": "00:08:51",
+      "speakers": {
+        "SPEAKER_01": "00:04:24",
+        "SPEAKER_02": "00:03:30"
+      },
+      "idle": "00:00:57",
+      "overlap": "00:00:00"
+    }
+  },
+  "interactive_analysis": {
+    "topic_segments": [
+      {
+        "topic": "Self-Introduction and Family Background",
+        "start_time": "00:00:01",
+        "end_time": "00:00:25"
+      },
+      {
+        "topic": "Hobbies: Movies and Drawing",
+        "start_time": "00:00:25",
+        "end_time": "00:02:40"
+      },
+      {
+        "topic": "Media Interests: Music, Reels, and K-Dramas",
+        "start_time": "00:02:40",
+        "end_time": "00:07:48"
+      },
+      {
+        "topic": "Discussion of Family Events and Past Conflict",
+        "start_time": "00:07:48",
+        "end_time": "00:08:51"
+      }
+    ],
+    "safety_flags": {
+      "profanity_detected": false,
+      "flagged_words": [],
+      "flagged_categories": []
+    },
+    "overall_sentiment": [
+      {
+        "speaker_id": "SPEAKER_01",
+        "average_sentiment": "positive",
+        "dominant_emotion": "interested",
+        "sentiment_score": 0.75
+      },
+      {
+        "speaker_id": "SPEAKER_02",
+        "average_sentiment": "positive",
+        "dominant_emotion": "content",
+        "sentiment_score": 0.6
+      }
+    ],
+    "emotion_timeline": [
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "neutral",
+        "timestamp": "00:00:01",
+        "confidence": 0.95,
+        "intensity": "low"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "calm",
+        "timestamp": "00:00:01",
+        "confidence": 0.88,
+        "intensity": "low"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "interested",
+        "timestamp": "00:00:13",
+        "confidence": 0.9,
+        "intensity": "low"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "amused",
+        "timestamp": "00:00:24",
+        "confidence": 0.85,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "content",
+        "timestamp": "00:00:39",
+        "confidence": 0.79,
+        "intensity": "low"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "surprised",
+        "timestamp": "00:01:02",
+        "confidence": 0.8,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "disappointed",
+        "timestamp": "00:01:13",
+        "confidence": 0.65,
+        "intensity": "low"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "pleased",
+        "timestamp": "00:01:39",
+        "confidence": 0.75,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "surprised",
+        "timestamp": "00:02:00",
+        "confidence": 0.82,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "interested",
+        "timestamp": "00:02:15",
+        "confidence": 0.9,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "interested",
+        "timestamp": "00:02:44",
+        "confidence": 0.85,
+        "intensity": "low"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "excited",
+        "timestamp": "00:03:36",
+        "confidence": 0.78,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "excited",
+        "timestamp": "00:03:37",
+        "confidence": 0.8,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "amused",
+        "timestamp": "00:05:02",
+        "confidence": 0.88,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "amused",
+        "timestamp": "00:07:07",
+        "confidence": 0.9,
+        "intensity": "high"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "amused",
+        "timestamp": "00:07:11",
+        "confidence": 0.85,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "sad",
+        "timestamp": "00:08:00",
+        "confidence": 0.7,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "proud",
+        "timestamp": "00:08:03",
+        "confidence": 0.65,
+        "intensity": "low"
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "emotion": "sad",
+        "timestamp": "00:08:11",
+        "confidence": 0.8,
+        "intensity": "moderate"
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "emotion": "hopeful",
+        "timestamp": "00:08:40",
+        "confidence": 0.77,
+        "intensity": "low"
+      }
+    ]
+  },
+  "reports": {
+    "cefr": {
+      "summary": {
+        "type": "summary",
+        "dimension_scores": {
+          "fluency": 58,
+          "grammar": 55,
+          "vocabulary": 75,
+          "pronunciation": 72,
+          "clarity": 48
+        },
+        "score": {
+          "strengths": [
+            "You maintain good thematic control, staying on topic throughout the conversation.",
+            "Your vocabulary is adequate for general topics, allowing you to successfully describe personal interests (e.g., K-dramas, drawing).",
+            "Your core message is highly intelligible, and you effectively distinguish statements from questions through basic intonation."
+          ],
+          "limitations": [
+            "Pronunciation errors, particularly in vowel sounds and word stress, require noticeable concentration from the listener.",
+            "Systematic errors in basic grammar, especially with past tense and auxiliary verbs (e.g., 'I draw' instead of 'I drew'; 'are have' instead of 'have').",
+            "Your speech lacks variety in cohesive devices, relying on fragmentation and repetition (A2-level coherence), which affects clarity."
+          ],
+          "score": 62,
+          "confidence_level": "high",
+          "reason": "You have achieved a B1 level, demonstrating functional ability to discuss personal topics and handle familiar situations. Your main challenge lies in the consistency and control of basic grammar, specifically past tense forms and auxiliary verbs. Your overall clarity is held back by the lack of varied linking devices, which makes longer explanations fragmented. To progress, you must prioritize improving grammatical accuracy and using a wider range of connectors to build more fluid, coherent narratives."
+        },
+        "action_plan": [
+          "Practice narrating past events (e.g., 'What I did yesterday') focusing specifically on accurate simple past tense (irregular verbs) and auxiliary usage to improve grammatical consistency.",
+          "Actively incorporate B1/B2 cohesive devices (e.g., 'although', 'in addition', 'consequently') to connect long sentences and structure your arguments, avoiding repetition.",
+          "Engage in structured shadowing exercises to practice English word stress and rhythm, aiming to reduce the tendency to give equal weight to every syllable and smooth out your pace."
+        ]
+      },
+      "grammar": {
+        "type": "grammar",
+        "segments": [
+          {
+            "timestamp": "00:00:10",
+            "content": "Now I'm training in freshers.",
+            "suggestion": [
+              "I am currently training as a fresher.",
+              "I am doing fresher training now."
+            ],
+            "explanation": "You used the incorrect preposition 'in'. You should use 'as a' when describing your role or status.",
+            "tags": ["Preposition Error"]
+          },
+          {
+            "timestamp": "00:00:24",
+            "content": "All are my closest to ma'am.",
+            "suggestion": [
+              "All of them are closest to me.",
+              "All are very close to me."
+            ],
+            "explanation": "The structure for the superlative adjective 'closest' is slightly unclear. The suggested phrasing is simpler and more natural.",
+            "tags": ["Word Order"]
+          },
+          {
+            "timestamp": "00:01:13",
+            "content": "I can't able to understand the scenes, ma'am.",
+            "suggestion": [
+              "I couldn't understand the scenes.",
+              "I wasn't able to understand the scenes."
+            ],
+            "explanation": "You should not use 'can't' and 'able to' together, as they both express capability. This is a common redundancy error.",
+            "tags": ["Modal Verb Error"]
+          },
+          {
+            "timestamp": "00:01:21",
+            "content": "I studied sixth.",
+            "suggestion": ["I was in sixth grade."],
+            "explanation": "When describing the grade level you were at, use the structure 'I was in [grade]'.",
+            "tags": ["Verb Tense"]
+          },
+          {
+            "timestamp": "00:01:28",
+            "content": "She only watching uh, pictures and eating popcorn only.",
+            "suggestion": [
+              "She was only watching pictures and eating popcorn."
+            ],
+            "explanation": "You missed the auxiliary verb 'was' needed to form the past continuous tense (was watching).",
+            "tags": ["Subject-Verb Agreement"]
+          },
+          {
+            "timestamp": "00:01:57",
+            "content": "I draw Dora Booji in my house wall.",
+            "suggestion": [
+              "I drew Dora Booji on my house wall.",
+              "I painted Dora Booji on my house wall."
+            ],
+            "explanation": "You need to use the simple past tense ('drew' or 'painted') to talk about an action you completed in the past.",
+            "tags": ["Verb Tense"]
+          },
+          {
+            "timestamp": "00:03:02",
+            "content": "Only one time only he come, ma'am.",
+            "suggestion": ["He only came once.", "He only came one time."],
+            "explanation": "The past tense of 'come' is 'came'. Also, the word 'only' was used redundantly.",
+            "tags": ["Verb Tense"]
+          },
+          {
+            "timestamp": "00:04:05",
+            "content": "the heroine was uh, crush about uh, his her, her brother's friend.",
+            "suggestion": ["The heroine had a crush on her brother's friend."],
+            "explanation": "The correct idiom is 'to have a crush on' someone. You used 'was crush about'.",
+            "tags": ["Preposition Error"]
+          },
+          {
+            "timestamp": "00:05:06",
+            "content": "All movies are have contract marriage, contract marriage",
+            "suggestion": ["All movies have contract marriage plots."],
+            "explanation": "You cannot use 'are have'. For possession or describing a plot, use the simple present verb 'have'.",
+            "tags": ["Subject-Verb Agreement"]
+          },
+          {
+            "timestamp": "00:08:00",
+            "content": "My function only go very sad.",
+            "suggestion": [
+              "My function only went very sadly.",
+              "My function was very sad."
+            ],
+            "explanation": "To describe a past event, use the past tense of 'go', which is 'went'. Alternatively, use the verb 'was'.",
+            "tags": ["Verb Tense"]
+          }
+        ],
+        "metrics": {
+          "errors_per_100_words": {
+            "name": "Errors Per 100 Words",
+            "user_score": {
+              "value": 8,
+              "unit": "per 100 words"
+            },
+            "target_score": {
+              "value": 6,
+              "unit": "per 100 words"
+            },
+            "interpretation": "noticeable errors"
+          },
+          "self_correction_rate": {
+            "name": "Self-Correction Rate",
+            "user_score": {
+              "value": 0,
+              "unit": "%"
+            },
+            "target_score": {
+              "value": 20,
+              "unit": "%"
+            }
+          },
+          "syntactic_complexity": {
+            "name": "Syntactic Complexity Score",
+            "user_score": {
+              "value": 40,
+              "unit": "score"
+            },
+            "target_score": {
+              "value": 50,
+              "unit": "score"
+            },
+            "interpretation": "simple structures"
+          },
+          "error_impact": {
+            "name": "Error Impact and Type",
+            "dominant_error_type": "verb tense",
+            "impact_level": "frequently impairs meaning",
+            "example_errors": [
+              {
+                "error_type": "Verb Tense",
+                "incorrect": "I draw",
+                "correct": "I drew",
+                "context": "I draw Dora Booji in my house wall."
+              },
+              {
+                "error_type": "Auxiliary Verb Error",
+                "incorrect": "All movies are have",
+                "correct": "All movies have",
+                "context": "All movies are have contract marriage"
+              },
+              {
+                "error_type": "Preposition Error",
+                "incorrect": "crush about",
+                "correct": "crush on",
+                "context": "heroine was crush about her brother's friend."
+              }
+            ]
+          }
+        },
+        "score": {
+          "strengths": [
+            "You were generally able to link simple ideas together using basic conjunctions like 'and' and 'so'.",
+            "Your vocabulary related to family, hobbies (drawing, music), and entertainment (K-drama) was clear and appropriate for the topics."
+          ],
+          "limitations": [
+            "You frequently made systematic errors related to verb tense (past tense), especially with irregular verbs, which made parts of your narrative unclear.",
+            "You struggled with using auxiliary verbs (like 'to be' and 'to have') and modals, leading to incorrect verb structures (e.g., 'are have', 'can't able to').",
+            "Prepositions and definite/indefinite articles were often misused or omitted, impacting grammatical accuracy."
+          ],
+          "score": 55,
+          "confidence_level": "high",
+          "reason": "You demonstrated the ability to handle simple, predictable language patterns, placing you in the B1 developing range for grammatical accuracy. However, you made a high number of noticeable and systemic errors, particularly concerning past tense formation (like 'I draw' instead of 'I drew') and the use of auxiliary verbs (like 'are have'). These errors occasionally confused the meaning for the listener. To reach a solid B1 level, you need to gain more consistent control over basic verb structures and auxiliary verbs. You primarily relied on simple sentence structures, showing a limited range of complex grammar."
+        }
+      },
+      "vocabulary": {
+        "type": "vocabulary",
+        "segments": [
+          {
+            "timestamp": "00:00:10",
+            "content": "I'm training in freshers.",
+            "suggestion": ["as a fresher", "in my training program"],
+            "explanation": "Using 'freshers' as a state or general area is imprecise. It should be rephrased to specify the type of training you are doing.",
+            "tags": ["Word Choice Error", "Inaccurate Collocation"]
+          },
+          {
+            "timestamp": "00:01:13",
+            "content": "I can't able to understand the scenes, ma'am.",
+            "suggestion": [
+              "I couldn't understand",
+              "I wasn't able to understand"
+            ],
+            "explanation": "You should use either 'I can't' OR 'I am not able to' (or past tense 'couldn't'). Using both ('can't able') is redundant and grammatically incorrect.",
+            "tags": ["Word Choice Error"]
+          },
+          {
+            "timestamp": "00:01:56",
+            "content": "I draw Dora Booji in my house wall.",
+            "suggestion": ["on my house wall"],
+            "explanation": "When drawing or painting on a vertical surface, use the preposition 'on' rather than 'in'.",
+            "tags": ["Word Choice Error"]
+          },
+          {
+            "timestamp": "00:03:07",
+            "content": "Only one time only he come, ma'am.",
+            "suggestion": ["he came only once", "he only came once"],
+            "explanation": "You need to use the simple past tense ('came') when talking about a specific past event.",
+            "tags": ["Word Choice Error"]
+          },
+          {
+            "timestamp": "00:03:16",
+            "content": "He sings, is it?",
+            "suggestion": ["Does he sing?", "He sings, doesn't he?"],
+            "explanation": "This phrase is a direct translation that does not work in English. Use a standard interrogative or a proper tag question.",
+            "tags": ["Semantic Misuse"]
+          },
+          {
+            "timestamp": "00:03:20",
+            "content": "Album songs. Series, not in series, ma'am.",
+            "suggestion": ["Album songs, not from TV series/movies"],
+            "explanation": "This phrase is difficult to follow. Clarify that the songs are from albums and not from TV or film soundtracks.",
+            "tags": ["Lexical Gap (Circumlocution)"]
+          },
+          {
+            "timestamp": "00:04:02",
+            "content": "The heroine was crush about is her her brother's friend.",
+            "suggestion": ["The heroine had a crush on her brother's friend"],
+            "explanation": "The construction 'was crush about' is syntactically and lexically inaccurate. Use the correct idiom: 'to have a crush on someone.'",
+            "tags": ["Inaccurate Collocation", "Semantic Misuse"]
+          },
+          {
+            "timestamp": "00:04:15",
+            "content": "The age difference was five years bigger.",
+            "suggestion": ["five years older", "a five-year difference"],
+            "explanation": "Use the comparative adjective 'older' when referring to age difference, not 'bigger'.",
+            "tags": ["Word Choice Error"]
+          },
+          {
+            "timestamp": "00:05:06",
+            "content": "All movies are have contract marriage, contract marriage, but not bored, ma'am.",
+            "suggestion": ["I don't get bored", "it's not boring"],
+            "explanation": "The passive structure 'not bored' without a subject or auxiliary verb is unclear. State clearly that the content is not boring to you.",
+            "tags": ["Word Choice Error"]
+          },
+          {
+            "timestamp": "00:08:11",
+            "content": "Relations are fighting with my father.",
+            "suggestion": ["Relatives/family members were fighting"],
+            "explanation": "'Relations' is understood in this context but 'relatives' is the more common and precise noun for family members.",
+            "tags": ["Word Choice Error"]
+          }
+        ],
+        "metrics": {
+          "lexical_diversity": {
+            "name": "Lexical Diversity (Content Words TTR)",
+            "user_score": {
+              "value": 0.46,
+              "unit": "ratio"
+            },
+            "target_score": {
+              "value": 0.45,
+              "unit": "ratio"
+            },
+            "unique_words_count": 115,
+            "total_words_count": 440
+          },
+          "lexical_distribution": {
+            "name": "CEFR Lexical Coverage",
+            "average_lexical_level": 1.77,
+            "interpretation": "adequate for general topics",
+            "cefr_breakdown": {
+              "A1": {
+                "percentage": 48,
+                "words": [
+                  "mother",
+                  "father",
+                  "sister",
+                  "movie",
+                  "time",
+                  "watch",
+                  "draw",
+                  "like",
+                  "sing",
+                  "love",
+                  "end",
+                  "day",
+                  "go",
+                  "come",
+                  "old",
+                  "big",
+                  "sad",
+                  "good",
+                  "nice",
+                  "ask",
+                  "see",
+                  "play",
+                  "speak",
+                  "run",
+                  "feel",
+                  "class"
+                ]
+              },
+              "A2": {
+                "percentage": 28,
+                "words": [
+                  "family",
+                  "remember",
+                  "close",
+                  "recently",
+                  "theater",
+                  "young",
+                  "popcorn",
+                  "hobby",
+                  "music",
+                  "player",
+                  "question",
+                  "boring",
+                  "deal",
+                  "gain",
+                  "poor",
+                  "money",
+                  "support",
+                  "fight",
+                  "tell"
+                ]
+              },
+              "B1": {
+                "percentage": 14,
+                "words": [
+                  "district",
+                  "training",
+                  "understand",
+                  "picture",
+                  "interested",
+                  "extracurricular",
+                  "usually",
+                  "anything",
+                  "contract",
+                  "purpose",
+                  "problem",
+                  "fix",
+                  "real",
+                  "voice",
+                  "beautiful",
+                  "relation"
+                ]
+              },
+              "B2": {
+                "percentage": 6,
+                "words": [
+                  "professionally",
+                  "cringe",
+                  "insult",
+                  "crush",
+                  "heroine"
+                ]
+              },
+              "C1": {
+                "percentage": 0,
+                "words": []
+              },
+              "C2": {
+                "percentage": 0,
+                "words": []
+              }
+            }
+          },
+          "lexical_sophistication": {
+            "name": "B2+ Vocabulary Use",
+            "user_score": {
+              "value": 6,
+              "unit": "%"
+            },
+            "target_score": {
+              "value": 20,
+              "unit": "%"
+            },
+            "interpretation": "sufficient for general topics"
+          },
+          "lexical_precision": {
+            "name": "Lexical Accuracy and Precision",
+            "user_score": {
+              "value": 3.2,
+              "unit": "per 100 words"
+            },
+            "target_score": {
+              "value": 3,
+              "unit": "per 100 words"
+            },
+            "precision_level": "generally accurate with minor lapses",
+            "error_examples": [
+              {
+                "error_type": "Inaccurate Collocation",
+                "incorrect": "I draw Dora Booji in my house wall",
+                "correct": "I draw Dora Booji on my house wall"
+              },
+              {
+                "error_type": "Word Choice Error",
+                "incorrect": "five years bigger",
+                "correct": "five years older"
+              },
+              {
+                "error_type": "Grammatical/Tense Misuse",
+                "incorrect": "he come",
+                "correct": "he came"
+              }
+            ]
+          }
+        },
+        "score": {
+          "strengths": [
+            "You have an adequate range of vocabulary to discuss personal life, family, and hobbies (B1 level topics).",
+            "Your lexical diversity (Type-Token Ratio) is appropriate for a continuous spontaneous speech task.",
+            "You successfully deployed a few B2-level terms like 'cringe' and 'professionally' showing potential for growth."
+          ],
+          "limitations": [
+            "The vast majority of your active vocabulary (76%) is restricted to the A1/A2 level, limiting your ability to express nuance.",
+            "You struggle with precision, often misusing basic prepositions, verb forms, and common collocations ('crush about', 'not able to speak').",
+            "You occasionally rely on imprecise phrasing or direct translations, leading to momentary lack of clarity."
+          ],
+          "score": 75,
+          "confidence_level": "high",
+          "reason": "Your lexical performance is firmly within the B1 band. You demonstrated a vocabulary range that is 'adequate for general topics,' enabling you to converse fluently about familiar subjects like K-dramas, family life, and personal interests. However, your vocabulary lacks the necessary depth and precision required for B2. Specifically, over three-quarters of your content words are high-frequency A1/A2 terms, and you showed consistent difficulties maintaining accuracy with basic structures and collocations (e.g., 'five years bigger' instead of 'older'). To improve, you should focus on actively incorporating B2-level vocabulary and prioritizing the precise use of prepositions and verb tenses."
+        }
+      },
+      "fluency": {
+        "type": "fluency",
+        "segments": [
+          {
+            "timestamp": "00:00:05",
+            "content": "I'm Raja-- Rajeshwari.",
+            "suggestion": ["My name is Rajeshwari."],
+            "explanation": "You corrected your name immediately after a false start. Practice quick self-introductions to ensure a smooth, confident delivery.",
+            "tags": ["Self-Correction", "Fragmentation"]
+          },
+          {
+            "timestamp": "00:00:10",
+            "content": "Now I'm training in freshers.",
+            "suggestion": ["I am currently undergoing training as a fresher."],
+            "explanation": "This phrasing is grammatically incorrect. Use 'as a fresher' or 'in a training program' instead of 'in freshers'.",
+            "tags": ["Grammatical Error", "Lexical Choice"]
+          },
+          {
+            "timestamp": "00:00:33",
+            "content": "I like to do watching tea-- movies.",
+            "suggestion": ["I enjoy watching movies."],
+            "explanation": "You used unnecessary words ('to do') and had a false start ('tea') before stating the activity. Try to deliver simple phrases more directly.",
+            "tags": ["Repetition", "False Start"]
+          },
+          {
+            "timestamp": "00:00:44",
+            "content": "Recently I watched, I can't remember, ma'am. But, ah,",
+            "suggestion": [
+              "I recently watched a movie, but I cannot recall the title right now."
+            ],
+            "explanation": "This segment contains long pauses and fragmented delivery, showing difficulty in retrieving the specific word or detail you wanted.",
+            "tags": ["Retrieval Lag", "Fragmentation", "Filler Cluster"]
+          },
+          {
+            "timestamp": "00:00:58",
+            "content": "only one time only I went to theater, ma'am.",
+            "suggestion": ["I have only been to the theater once."],
+            "explanation": "The repetition of 'only' is redundant and makes the speech sound less natural. Practice eliminating such unnecessary repetitions.",
+            "tags": ["Repetition", "Redundancy"]
+          },
+          {
+            "timestamp": "00:01:13",
+            "content": "I can't able to understand the scenes, ma'am.",
+            "suggestion": ["I wasn't able to understand the scenes."],
+            "explanation": "You combined 'can't' and 'able to', which is a common grammatical error. Use 'I couldn't' or 'I wasn't able to'.",
+            "tags": ["Grammatical Error", "Accuracy"]
+          },
+          {
+            "timestamp": "00:01:56",
+            "content": "Uh, I draw Dora Booji in my house wall.",
+            "suggestion": ["I drew Dora Booji on my house wall."],
+            "explanation": "You used the present tense ('I draw') when describing a past completed action. Ensure accurate use of the simple past tense.",
+            "tags": ["Tense Error", "Grammatical Error"]
+          },
+          {
+            "timestamp": "00:03:56",
+            "content": "Uh, I first, first watch Hidden Drum, Hidden love.",
+            "suggestion": ["The first K-drama I watched was 'Hidden Love'."],
+            "explanation": "You struggled to recall the title, resulting in repetition and misspoken words ('Hidden Drum'). This suggests lexical retrieval lag.",
+            "tags": ["Repetition", "Retrieval Lag"]
+          },
+          {
+            "timestamp": "00:04:02",
+            "content": "Uh, the heroine was uh, crush about uh, his her, her brother's friend.",
+            "suggestion": [
+              "The story is about the heroine having a crush on her brother's friend."
+            ],
+            "explanation": "The heavy use of fillers ('uh') and multiple structural corrections made this sentence difficult to follow and significantly slowed your pace.",
+            "tags": ["Retrieval Lag", "Structural Breakdown", "Filler Cluster"]
+          },
+          {
+            "timestamp": "00:05:32",
+            "content": "So, she, she have money for, uh, physical and physical and physical support, ma'am.",
+            "suggestion": ["So, she needed money for physical support."],
+            "explanation": "Repetition, high effort, and multiple attempts to find the correct phrase ('physical support') severely broke the sentence structure.",
+            "tags": ["Repetition", "Structural Breakdown", "High Effort"]
+          }
+        ],
+        "metrics": {
+          "speech_rate": {
+            "name": "Words Per Minute (WPM)",
+            "user_score": {
+              "value": 125.7,
+              "unit": "WPM"
+            },
+            "target_score": {
+              "value": 150,
+              "unit": "WPM"
+            },
+            "interpretation": "functional"
+          },
+          "average_pause_duration": {
+            "name": "Average Pause Duration (>0.5s)",
+            "user_score": {
+              "value": 1,
+              "unit": "seconds"
+            },
+            "target_score": {
+              "value": 0.8,
+              "unit": "seconds"
+            },
+            "threshold_exceeded": true
+          },
+          "fillers_per_100_words": {
+            "name": "Fillers Per 100 Words",
+            "user_score": {
+              "value": 4.09,
+              "unit": "per 100 words"
+            },
+            "target_score": {
+              "value": 3,
+              "unit": "per 100 words"
+            },
+            "level": "moderate",
+            "breakdown": [
+              {
+                "filler": "uh",
+                "count": 5
+              },
+              {
+                "filler": "ah",
+                "count": 1
+              },
+              {
+                "filler": "ma'am (as hesitation)",
+                "count": 12
+              }
+            ]
+          },
+          "hesitation_rate": {
+            "name": "Total Hesitation Rate",
+            "user_score": {
+              "value": 15,
+              "unit": "%"
+            },
+            "target_score": {
+              "value": 5,
+              "unit": "%"
+            }
+          }
+        },
+        "score": {
+          "strengths": [
+            "You were able to sustain communication for the entire duration of the conversation.",
+            "You showed good enthusiasm when discussing personal interests like music and K-dramas.",
+            "Your vocabulary is generally sufficient to convey simple personal opinions and details."
+          ],
+          "limitations": [
+            "Your overall pace is slow and uneven (125 WPM), indicating noticeable effort.",
+            "You rely heavily on long pauses (average 1.0 seconds) and excessive filler words, resulting in a high hesitation rate (15%).",
+            "You struggle with grammatical accuracy during spontaneous speech, particularly tense consistency and simple structural phrasing."
+          ],
+          "score": 58,
+          "confidence_level": "high",
+          "reason": "Your ability to keep the conversation going shows clear communicative competence, placing you at a functional B1 level. However, your fluency is consistently broken down by high cognitive load, demonstrated by an average pause duration of 1.0 seconds and a very high hesitation rate (15%). You frequently use filler words and often repeat words or phrases ('only one time only') before settling on the final structure, which makes the speech uneven and requires effort from the listener. To reach the B2 level, you need to work on reducing these long pauses and improving the speed and accuracy of basic grammatical structures, especially when describing past actions."
+        }
+      },
+      "pronunciation": {
+        "type": "pronunciation",
+        "segments": [
+          {
+            "timestamp": "00:00:05",
+            "content": "Raja-- Rajeshwari",
+            "suggestion": [
+              "Focus on the correct pronunciation of your name's main vowel sounds."
+            ],
+            "explanation": "Even though this is a name, the initial sound was very hesitant and unclear, which disrupts the flow of the introduction.",
+            "tags": ["Segmental Error (Vowel)", "Rhythm/Syllable Timing"]
+          },
+          {
+            "timestamp": "00:00:12",
+            "content": "training in freshers",
+            "suggestion": [
+              "Use 'fresher training' or 'as a fresher' to sound more natural.",
+              "Ensure the stress falls on the first syllable of 'training' and has a falling tone."
+            ],
+            "explanation": "The word choice and heavy stress on 'freshers' made the sentence rhythm flat and non-native.",
+            "tags": ["Word Stress Error", "Rhythm/Syllable Timing"]
+          },
+          {
+            "timestamp": "00:00:19",
+            "content": "sister",
+            "suggestion": [
+              "Ensure the /ɪ/ vowel in the first syllable is short and relaxed, not elongated.",
+              "Practice blending the syllables together to make it one smooth word, not 'si-ster'."
+            ],
+            "explanation": "The vowel sound for /ɪ/ (as in 'sit') was tense, and the word was pronounced with a choppy, two-syllable rhythm.",
+            "tags": ["Segmental Error (Vowel)", "Rhythm/Syllable Timing"]
+          },
+          {
+            "timestamp": "00:00:39",
+            "content": "watching",
+            "suggestion": [
+              "Use a rounded vowel sound, closer to the 'o' in 'pot' for the first syllable, not a flat 'a' sound."
+            ],
+            "explanation": "The vowel sound in 'watching' was significantly flattened, which is a common L1 interference affecting clarity.",
+            "tags": ["Segmental Error (Vowel)"]
+          },
+          {
+            "timestamp": "00:01:15",
+            "content": "scenes",
+            "suggestion": [
+              "Hold the /i:/ vowel sound (like in 'feel') for longer to differentiate it from a short /ɪ/ sound."
+            ],
+            "explanation": "The long 'ee' vowel sound in 'scenes' was pronounced too short, making the word difficult to identify immediately.",
+            "tags": ["Segmental Error (Vowel)"]
+          },
+          {
+            "timestamp": "00:01:43",
+            "content": "draw",
+            "suggestion": [
+              "Practice the 'aw' sound, keeping your mouth open and relaxed."
+            ],
+            "explanation": "The final vowel sound in 'draw' was closer to a short /o/ sound, disrupting the expected pronunciation.",
+            "tags": ["Segmental Error (Vowel)"]
+          },
+          {
+            "timestamp": "00:02:00",
+            "content": "wall",
+            "suggestion": [
+              "The 'all' sound should be a long, back vowel (/ɔː/). Listen to native speakers say 'fall' or 'tall'."
+            ],
+            "explanation": "The vowel sound in 'wall' was shortened and misplaced, making it sound different from the target pronunciation.",
+            "tags": ["Segmental Error (Vowel)"]
+          },
+          {
+            "timestamp": "00:04:02",
+            "content": "heroine",
+            "suggestion": [
+              "Stress the first syllable: HE-roine. The stress should not be equal on all syllables.",
+              "Try to pronounce the word faster and smoother to match native rhythm."
+            ],
+            "explanation": "The word 'heroine' was pronounced with equal weight on all three syllables, indicating a clear word stress error.",
+            "tags": ["Word Stress Error", "Rhythm/Syllable Timing"]
+          },
+          {
+            "timestamp": "00:04:41",
+            "content": "contract",
+            "suggestion": [
+              "When used as an adjective (as here, describing 'marriage'), the stress usually shifts to the second syllable: con-TRACT.",
+              "Ensure the 'a' sound is the correct short /æ/ vowel."
+            ],
+            "explanation": "You stressed the first syllable of 'contract,' which is correct for the noun, but often wrong when using it before another noun.",
+            "tags": ["Word Stress Error"]
+          },
+          {
+            "timestamp": "00:05:49",
+            "content": "physical",
+            "suggestion": [
+              "Focus on the short /ɪ/ vowel in 'physical' (like 'fit').",
+              "The stress should be on the first syllable: PHY-si-cal."
+            ],
+            "explanation": "The vowel sound in 'physical' was distorted, making the word difficult to catch. The overall rhythm of the phrase was choppy due to hesitation and repetition.",
+            "tags": ["Segmental Error (Vowel)", "Rhythm/Syllable Timing"]
+          }
+        ],
+        "metrics": {
+          "segmental_accuracy": {
+            "name": "Segmental Accuracy (Individual Sounds)",
+            "user_score": {
+              "value": 68,
+              "unit": "score"
+            },
+            "target_score": {
+              "value": 75,
+              "unit": "score"
+            },
+            "error_rate": 12,
+            "problematic_phonemes": [
+              {
+                "phoneme": "/ɪ/",
+                "accuracy": 55,
+                "examples": ["sister", "physical"]
+              },
+              {
+                "phoneme": "/æ/",
+                "accuracy": 60,
+                "examples": ["contract", "have"]
+              },
+              {
+                "phoneme": "/v/",
+                "accuracy": 65,
+                "examples": ["love", "very"]
+              }
+            ]
+          },
+          "word_stress_accuracy": {
+            "name": "Word Stress and Rhythm",
+            "user_score": {
+              "value": 6,
+              "unit": "per 100 words"
+            },
+            "target_score": {
+              "value": 3,
+              "unit": "per 100 words"
+            }
+          },
+          "intonation_control": {
+            "name": "Intonation and Fluency",
+            "deviation_level": "medium",
+            "meaning_variation": "functional",
+            "sentence_stress_error_rate": 4
+          },
+          "intelligibility": {
+            "name": "Intelligibility and Listener Effort",
+            "listener_strain": "noticeable",
+            "overall_impact": "generally intelligible"
+          }
+        },
+        "score": {
+          "strengths": [
+            "Your core message is clear, and key content words are understandable.",
+            "You are able to distinguish statements from questions using basic intonation.",
+            "You speak clearly when discussing very familiar, simple topics."
+          ],
+          "limitations": [
+            "Pronunciation errors, especially in vowels and consonants, require the listener to focus hard.",
+            "The rhythm of your speech is syllable-timed and choppy, which slows down comprehension.",
+            "You often misplace stress on longer words (word stress errors)."
+          ],
+          "score": 72,
+          "confidence_level": "high",
+          "reason": "You have achieved a B1 level in phonological control. You are generally intelligible, meaning that the listener can figure out what you are saying, but it requires noticeable concentration on their part. This strain comes from two main areas: first, many of your vowel sounds are influenced by your native language, making words like 'scenes' and 'physical' sound incorrect. Second, the rhythm of your English is not smooth; you tend to emphasize every syllable equally, which leads to word stress errors and a choppy flow. To improve, you should practice the stress and rhythm of English words, focusing on letting unstressed syllables relax, and work specifically on the accuracy of your short and long vowel sounds. Improving the flow of your speech will dramatically reduce the effort required from the listener and help you move towards a higher B level."
+        }
+      },
+      "clarity": {
+        "type": "clarity",
+        "segments": [
+          {
+            "timestamp": "00:00:33",
+            "content": "I like to do watching tea-- movies.",
+            "suggestion": [
+              "I like watching movies.",
+              "I enjoy watching films."
+            ],
+            "explanation": "The phrasing is slightly awkward and halting. Use direct verb phrases like 'I enjoy' or 'I like watching' for better clarity and flow.",
+            "tags": ["Abrupt Transition"]
+          },
+          {
+            "timestamp": "00:01:13",
+            "content": "I can't able to understand the scenes, ma'am.",
+            "suggestion": [
+              "I wasn't able to understand the scenes.",
+              "I couldn't understand the scenes."
+            ],
+            "explanation": "Using 'can't able to' is redundant. Use either 'I can't' (present) or 'I wasn't able to'/'I couldn't' (past) to express lack of ability.",
+            "tags": ["Logical Gap"]
+          },
+          {
+            "timestamp": "00:01:28",
+            "content": "She only watching uh, pictures and eating popcorn only.",
+            "suggestion": [
+              "She was only watching pictures and eating popcorn.",
+              "She only watched the pictures and ate popcorn."
+            ],
+            "explanation": "You repeated the word 'only' unnecessarily. Also, remember to include the correct tense marker (like 'was watching') when describing an action in the past.",
+            "tags": ["Repetitive Linking"]
+          },
+          {
+            "timestamp": "00:03:45",
+            "content": "Now I can watch any K-dramas.",
+            "suggestion": [
+              "Now I am not watching any K-dramas.",
+              "I haven't been watching any K-dramas recently."
+            ],
+            "explanation": "You used 'I can watch,' which suggests you have the ability. To express that you are currently *not* doing it, use 'I am not watching' or 'I haven't been watching.'",
+            "tags": ["Inappropriate Connector"]
+          },
+          {
+            "timestamp": "00:04:02",
+            "content": "the heroine was uh, crush about uh, his her, her brother's friend.",
+            "suggestion": [
+              "The heroine had a crush on her brother's friend.",
+              "The story is about a girl who liked her brother's friend."
+            ],
+            "explanation": "The description was confusing and broken. You struggled with the correct verb ('had a crush') and pronoun reference ('his/her'). Using simpler, direct phrasing will help.",
+            "tags": ["Unclear Reference", "Abrupt Transition"]
+          },
+          {
+            "timestamp": "00:04:40",
+            "content": "Always contract marriage.",
+            "suggestion": [
+              "They always have a contract marriage plot.",
+              "Most of the stories involve a contract marriage."
+            ],
+            "explanation": "This is a very short, fragmented phrase. Try to use full sentences to introduce main ideas to make your speech sound more formal and complete.",
+            "tags": ["Lack of Structure"]
+          },
+          {
+            "timestamp": "00:05:06",
+            "content": "All movies are have contract marriage, contract marriage, but not bored, ma'am.",
+            "suggestion": [
+              "All movies have a contract marriage plot, but I am not bored.",
+              "They all feature contract marriages, but I still don't find them boring."
+            ],
+            "explanation": "The grammar is incorrect ('All movies are have'). Use 'All movies have' or 'All movies feature.' The repetition of 'contract marriage' is unnecessary.",
+            "tags": ["Repetitive Linking"]
+          },
+          {
+            "timestamp": "00:05:32",
+            "content": "So, she, she have money for, uh, physical and physical and physical support, ma'am.",
+            "suggestion": [
+              "So, she needed money for her physical support.",
+              "Therefore, she required money for medical treatment."
+            ],
+            "explanation": "You repeated the word 'physical' unnecessarily, which made the sentence unclear and disrupted the flow of your explanation.",
+            "tags": ["Repetitive Linking", "Abrupt Transition"]
+          },
+          {
+            "timestamp": "00:07:07",
+            "content": "Dinesh and Jayasudha came out the class.",
+            "suggestion": [
+              "Dinesh and Jayasudha left the classroom.",
+              "Dinesh and Jayasudha walked out."
+            ],
+            "explanation": "Use 'left the class' or 'walked out of the class' instead of 'came out the class' to be more idiomatic and clear in English.",
+            "tags": ["Inappropriate Connector"]
+          },
+          {
+            "timestamp": "00:08:11",
+            "content": "Relations are fighting with my father.",
+            "suggestion": [
+              "My relatives were fighting with my father.",
+              "There was a fight between my relatives and my father."
+            ],
+            "explanation": "This phrase needs an active verb and clarification. It sounds more natural to say 'My relatives were fighting' rather than just 'Relations are fighting.'",
+            "tags": ["Lack of Structure"]
+          }
+        ],
+        "metrics": {
+          "cohesive_devices": {
+            "name": "Cohesive Device Density",
+            "user_score": {
+              "value": 3.75,
+              "unit": "per 100 words"
+            },
+            "target_score": {
+              "value": 6,
+              "unit": "per 100 words"
+            },
+            "variety_level": "limited",
+            "misuse_rate": 5
+          },
+          "discourse_organization": {
+            "name": "Discourse Organization",
+            "user_score": {
+              "value": 0,
+              "unit": "count"
+            },
+            "target_score": {
+              "value": 3,
+              "unit": "count"
+            },
+            "structural_clarity": "linear/basic"
+          },
+          "thematic_continuity": {
+            "name": "Thematic Continuity",
+            "topic_drift_count": 0,
+            "recovery_rate": 100
+          }
+        },
+        "score": {
+          "strengths": [
+            "You successfully use simple linking words like 'and' and 'but' to join very short phrases.",
+            "You consistently stick to the topic asked by the interviewer, showing good thematic control.",
+            "Your ideas follow a simple, easy-to-understand linear order when describing simple events."
+          ],
+          "limitations": [
+            "You frequently repeat simple linking words, limiting the complexity of your sentences.",
+            "You do not use any advanced structural markers (like 'firstly,' 'on the one hand,' 'finally') to organize complex ideas.",
+            "You sometimes use awkward or incorrect grammar (like 'I can't able to') which interrupts the flow of your speech."
+          ],
+          "score": 48,
+          "confidence_level": "high",
+          "reason": "Your speech is generally clear enough for basic communication. You manage to connect very simple ideas using basic words like 'and' and 'so.' However, to reach a higher level (B1), you need to work on increasing the variety of your linking devices. Currently, your ideas often stand alone or are linked in a repetitive, simplistic way. Focus on using more complex connectors such as 'although,' 'therefore,' or 'in addition' to build longer sentences and express clearer relationships between your points. This will make your explanations of things like K-drama plots much more coherent and easier to follow."
+        }
+      }
+    }
+  }
+}

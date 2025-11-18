@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:*)",
+      "Bash(dir \"C:\\Users\\hp\\Documents\\GitHub\\sewai-report-ui\" /b)",
+      "Bash(bun link:*)",
+      "Bash(dir \"C:\\Users\\hp\\Documents\\GitHub\\SEWAi\\node_modules\\@sewai\" /b)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

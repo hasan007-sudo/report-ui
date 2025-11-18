@@ -1,0 +1,33 @@
+# Source files
+src/
+tsconfig.json
+vite.config.ts
+tailwind.config.js
+postcss.config.js
+update-imports.js
+
+# Development files
+.gitignore
+.eslintrc.json
+.prettierrc
+
+# Documentation (keep README and INSTALLATION in published package)
+# README.md
+# INSTALLATION.md
+
+# Test files
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+__tests__/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts not for publishing
+node_modules/
+.DS_Store
+*.log
