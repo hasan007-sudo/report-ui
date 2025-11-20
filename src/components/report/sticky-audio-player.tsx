@@ -4,15 +4,18 @@ import { Play, Pause, Volume2, VolumeX } from "lucide-react";
 import { Slider } from "@/components/ui/slider";
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
+import { CEFRReportProps } from "../cefr-report";
 
 interface StickyAudioPlayerProps {
   recordingTitle: string;
   studentName: string;
+  variant: CEFRReportProps['variant'];
 }
 
 export function StickyAudioPlayer({
   recordingTitle: _recordingTitle,
   studentName: _studentName,
+  variant
 }: StickyAudioPlayerProps) {
   const {
     isPlaying,
@@ -55,8 +58,16 @@ export function StickyAudioPlayer({
     seekTo(newTime);
   };
 
+  const leftPosition =
+    variant === "integrated"
+      ? "calc(16rem + (100vw - 16rem) / 2)"
+      : "50%";
+
   return (
-    <div className="fixed bottom-4 z-50 w-[65%] -translate-x-1/2 rounded-lg border bg-white shadow-2xl" style={{ left: "calc(16rem + (100vw - 16rem) / 2)" }}>
+    <div
+      className="fixed bottom-4 z-50 w-[65%] -translate-x-1/2 rounded-lg border bg-white shadow-2xl"
+      style={{ left: leftPosition }}
+    >
       <div className="flex items-center gap-3 px-4 py-2.5">
         {/* Center section: Play button */}
         <Button
@@ -64,7 +75,7 @@ export function StickyAudioPlayer({
           size="icon"
           onClick={() => void togglePlay()}
           disabled={isLoading || !duration}
-          className="h-9 w-9 flex-shrink-0 rounded-full bg-blue-600 text-white shadow-lg hover:scale-105 hover:bg-blue-700 disabled:opacity-50"
+          className="h-9 w-9 shrink-0 rounded-full bg-blue-600 text-white shadow-lg hover:scale-105 hover:bg-blue-700 disabled:opacity-50"
         >
           {isPlaying ? (
             <Pause className="h-4 w-4 fill-current" />

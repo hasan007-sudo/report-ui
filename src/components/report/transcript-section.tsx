@@ -1,9 +1,12 @@
+"use client";
+
 import { useState, useEffect, useRef } from "react";
 import type { ReportDataV2 } from "@/types/cefr-report";
 import { TranscriptFilters } from "./transcript-filters";
 import { useAudioPlayer } from "@/contexts/audio-player-context";
 import { parseTimeToSeconds, findActiveSegmentIndex } from "@/lib/audio-utils";
 import { cn } from "@/lib/utils";
+import { User, Bot } from "lucide-react";
 
 interface TranscriptSectionProps {
   reportData: ReportDataV2;
@@ -89,22 +92,23 @@ export function TranscriptSection({ reportData }: TranscriptSectionProps) {
   };
 
   return (
-    <div className="h-full">
+    <div className="h-full flex flex-col bg-background">
       {/* Transcript Filters */}
-      <TranscriptFilters
-        showMistakesOnly={showMistakesOnly}
-        onShowMistakesOnlyChange={setShowMistakesOnly}
-        totalSegments={segments.length}
-        followMode={followMode}
-        onFollowModeChange={setFollowMode}
-      />
+      <div className="sticky top-0 z-10">
+        <TranscriptFilters
+          showMistakesOnly={showMistakesOnly}
+          onShowMistakesOnlyChange={setShowMistakesOnly}
+          totalSegments={segments.length}
+          followMode={followMode}
+          onFollowModeChange={setFollowMode}
+        />
+      </div>
 
       {/* Transcript Messages */}
-      <div ref={scrollContainerRef} className="space-y-3 p-6">
+      <div ref={scrollContainerRef} className="flex-1 overflow-y-auto space-y-6 p-6">
         {segments.map((segment, index) => {
           const speakerName = getSpeakerName(segment.speaker);
-          const isStudent =
-            speakerName?.trim().toLowerCase() === "student";
+          const isStudent = speakerName?.trim().toLowerCase() === "student";
           const isActive = index === activeSegmentIndex;
 
           return (
@@ -114,52 +118,39 @@ export function TranscriptSection({ reportData }: TranscriptSectionProps) {
                 segmentRefs.current[index] = el;
               }}
               className={cn(
-                "flex transition-all duration-200",
-                isStudent ? "justify-end" : "justify-start",
-                isActive && "scale-[1.02]"
+                "flex flex-col gap-1 transition-opacity duration-200",
+                isActive ? "opacity-100" : "opacity-80 hover:opacity-100"
               )}
             >
+              {/* Header: Icon, Name, Time */}
+              <div className="flex items-center gap-2">
+                {/* Icon */}
+                {isStudent ? (
+                  <User className="h-4 w-4 text-blue-600 dark:text-blue-400" />
+                ) : (
+                  <Bot className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+                )}
+
+                <span className={cn(
+                  "text-sm font-semibold",
+                  isStudent ? "text-blue-700 dark:text-blue-400" : "text-emerald-700 dark:text-emerald-400"
+                )}>
+                  {isStudent ? "You" : speakerName}
+                </span>
+                <span className="text-xs text-zinc-500 font-medium">, {segment.start_time}</span>
+              </div>
+
+              {/* Message Text - Full Width */}
               <div
+                onClick={() => handleTimestampClick(segment.start_time)}
                 className={cn(
-                  "max-w-[70%] flex flex-col",
-                  isStudent ? "items-end" : "items-start"
+                  "text-base leading-relaxed cursor-pointer transition-colors",
+                  isActive
+                    ? "text-zinc-900 dark:text-zinc-50 font-medium"
+                    : "text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-zinc-50"
                 )}
               >
-                {/* Speaker Name & Time */}
-                <div
-                  className={cn(
-                    "flex items-center gap-2 mb-1",
-                    isStudent && "flex-row-reverse"
-                  )}
-                >
-                  <span className="text-xs font-semibold text-gray-700">
-                    {speakerName}
-                  </span>
-                  <button
-                    onClick={() => handleTimestampClick(segment.start_time)}
-                    className={cn(
-                      "text-xs font-mono transition-colors hover:text-blue-600 hover:underline cursor-pointer",
-                      isActive ? "text-blue-600 font-semibold" : "text-gray-400"
-                    )}
-                    title="Click to play from here"
-                  >
-                    {segment.start_time}
-                  </button>
-                </div>
-
-                {/* Message Bubble */}
-                <div
-                  onClick={() => handleTimestampClick(segment.start_time)}
-                  className={cn(
-                    "rounded-lg px-4 py-2 transition-all cursor-pointer",
-                    isStudent
-                      ? "bg-green-200 rounded-tr-none"
-                      : "bg-blue-100 text-blue-900 rounded-tl-none",
-                    isActive && "ring-2 ring-blue-500 ring-offset-2"
-                  )}
-                >
-                  <p className="text-[12px]">{segment.content}</p>
-                </div>
+                {segment.content}
               </div>
             </div>
           );

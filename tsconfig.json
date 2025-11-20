@@ -32,5 +32,5 @@
     "declarationMap": true,
     "emitDeclarationOnly": false
   },
-  "include": ["src"]
+  "include": ["src", "dev.tsx", "vite-env.d.ts"]
 }
