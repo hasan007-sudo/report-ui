@@ -1,6 +1,6 @@
 {
   "name": "@forever-learning/cefr-report-ui",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CEFR language assessment report UI library for React",
   "keywords": [
     "cefr",
